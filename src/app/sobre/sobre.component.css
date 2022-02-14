@@ -1,35 +1,40 @@
-*{
-     font-family: "Poppins";
-    border: none;
-    text-decoration: none;
+* {
+  font-family: "Poppins";
+  border: none;
+  text-decoration: none;
 }
-#div3{
-    margin-right:2,5cm;
-    margin-left: 2,5cm;
-    margin-top: 1cm;
-    padding-bottom: 1cm ;
-    padding-left: 2cm;
-    /*padding-left: 3cm;*/
-}
-
-.p1{
-    text-indent: 50px;
+#div3 {
+  margin-right: 2, 5cm;
+  margin-left: 2, 5cm;
+  margin-top: 1cm;
+  padding-bottom: 1cm;
+  padding-left: 2cm;
+  /*padding-left: 3cm;*/
 }
 
-h1{
-   font-size: xx-large;   
-}
-h2{
-    font-size: xx-large;
+.p1 {
+  text-indent: 50px;
+  color: #b45f00;
 }
 
-.card-text{
-    font-family: "Josefin Sans";
-border: none;
-text-decoration: none;
-font-size: x-large;
+h1 {
+  font-size: xx-large;
+}
+h2 {
+  font-size: xx-large;
 }
 
-#sobre{
-    background-color: rgb(216, 182, 238);
+.card-text {
+  font-family: "Josefin Sans";
+  border: none;
+  text-decoration: none;
+  font-size: x-large;
+}
+
+#sobre {
+  background-color: #f3e9d9;
+}
+
+.f-color{
+  color: #51735F;
 }

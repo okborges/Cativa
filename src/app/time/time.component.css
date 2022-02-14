@@ -22,6 +22,10 @@ p {
   color: rgba(103, 23, 179, 0.945);
  }
 
+ .bg-claro{
+   background-color: #FAF2E5;
+ }
+
 /*#div1 { /*imagem de fundo*
   background: url(../../assets/img/logo_cativa.png);
   background-size: contain;
